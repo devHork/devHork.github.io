@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: url(source/imgs/question_mark.png);
+    color: white;
+    font-family: "Triong", Quicksand;
+}
+
+.paragraph {
+    border-radius: 10px;
+    margin-right: 394px;
+    margin-left: 394px;
+    padding: 3px;
+    background-color: rgba(0, 0, 0, 0.516);
+}
+
+#youtube {
+    text-decoration: none;
+    color: red;
+    background-color: rgba(255, 0, 0, 0.373);
+    padding: 1px;
+    border-radius: 5px;
+}
+
+#vscode {
+    text-decoration: none;
+    color: rgb(0, 170, 255);
+    background-color: rgba(0, 221, 255, 0.373);
+    padding: 1px;
+    border-radius: 5px;
+}
+
+#aseprite {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.373);
+    padding: 1px;
+    border-radius: 5px;
+}
